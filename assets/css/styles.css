@@ -440,3 +440,22 @@ input, select { min-height: 3.25rem; }
   .client-logos img[alt="Investigaciones Médicas"] { max-height: 2.6rem; }
 }
 @media (min-width: 821px) and (max-width: 1100px) { .client-logos li:first-child { grid-column: 1 / -1; justify-content: flex-start; } }
+/* Clientes agrupados por sector */
+#clientes .clients { grid-template-columns: 1fr; gap: 1.5rem; }
+#clientes .clients-head { display: grid; gap: .4rem; margin-bottom: .5rem; }
+#clientes .clients-head p { max-width: 40rem; margin: 0; }
+.client-group { display: grid; grid-template-columns: 11rem minmax(0, 1fr); gap: 1rem 2rem; align-items: center; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,.1); }
+.client-group h3 { font-family: var(--f-body, inherit); font-size: .8rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--orange); }
+#clientes .client-logos { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .75rem; }
+#clientes .client-logos li, #clientes .client-logos li:first-child { grid-column: auto; justify-content: center; min-height: 5.25rem; padding: .9rem 1.25rem; border: 1px solid rgba(255,255,255,.09); border-radius: 14px; background: rgba(255,255,255,.03); }
+#clientes .client-logos img { max-height: 2.5rem; max-width: 100%; opacity: .85; }
+#clientes .client-logos img:hover { opacity: 1; }
+#clientes .client-logos img[alt="Investigaciones Médicas"] { max-height: 2.1rem; }
+#clientes .client-logos img[alt="Nexolibre"] { max-height: 2.1rem; }
+#clientes .client-logos img[alt="Sanatorio Delta"], #clientes .client-logos img[alt="Bedson"], #clientes .client-logos img[alt="Pilará"] { max-height: 3rem; }
+@media (max-width: 900px) {
+  .client-group { grid-template-columns: 1fr; }
+  #clientes .client-logos { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; }
+  #clientes .client-logos li, #clientes .client-logos li:first-child { min-height: 4.5rem; padding: .75rem 1rem; }
+  #clientes .client-logos img { max-height: 2.1rem; }
+}
