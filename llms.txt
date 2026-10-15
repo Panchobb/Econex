@@ -1,0 +1,25 @@
+# Econex
+
+> Econex SRL es una empresa argentina de mantenimiento técnico para instituciones y empresas: climatización y aire acondicionado, refrigeración comercial, instalaciones eléctricas y tableros eléctricos. Trabaja en Ciudad de Buenos Aires y Gran Buenos Aires, con foco en sanatorios, clínicas y laboratorios. Forma parte de Grupo Nexo (junto a Nexolibre y MITLabs).
+
+Contacto: WhatsApp y teléfono +54 9 11 6741-0993, email contacto@econex.com.ar, formulario https://econex.com.ar/contacto.html
+Ubicación: Victoria, San Fernando, provincia de Buenos Aires (https://maps.app.goo.gl/mrSBR9cGimJLiuqK8)
+Cobertura: Ciudad de Buenos Aires y Gran Buenos Aires, incluida la zona norte (San Fernando, Tigre, San Isidro, Vicente López).
+Clientes: Investigaciones Médicas, Nexolibre, ITT Bornemann, Pilará, Newcom, además de hogares.
+Aire acondicionado: desde 2020, más de 100 equipos instalados y mantenidos. Service multimarca: LG, Carrier, York, BGH, Surrey y otras marcas.
+
+## Servicios
+- [Climatización y refrigeración](https://econex.com.ar/servicios/climatizacion-y-refrigeracion.html): Instalación, mantenimiento preventivo y reparación de aire acondicionado y equipos de frío.
+- [Mantenimiento e instalaciones eléctricas](https://econex.com.ar/servicios/mantenimiento-electrico.html): Instalaciones, adecuaciones y reparaciones eléctricas para edificios, oficinas, comercios y plantas.
+- [Tableros eléctricos](https://econex.com.ar/servicios/tableros-electricos.html): Diseño, armado y reforma de tableros de potencia, comando y distribución a medida.
+- [Planes de mantenimiento preventivo](https://econex.com.ar/servicios/mantenimiento-preventivo.html): Un plan anual con visitas programadas, informes técnicos y prioridad ante urgencias.
+
+## Sectores
+- [Instituciones de salud](https://econex.com.ar/instituciones-de-salud.html): sanatorios, clínicas, laboratorios y centros de diagnóstico.
+- Empresas y oficinas, industrias y plantas, comercios y gastronomía, edificios e instituciones.
+
+## Más información
+- [Preguntas frecuentes](https://econex.com.ar/preguntas-frecuentes.html)
+- [Empresa y Grupo Nexo](https://econex.com.ar/empresa.html)
+- [Grupo Nexo](https://gruponexosoluciones.com)
+- [Contenido completo del sitio en texto](https://econex.com.ar/llms-full.txt)
