@@ -459,3 +459,35 @@ input, select { min-height: 3.25rem; }
   #clientes .client-logos li, #clientes .client-logos li:first-child { min-height: 4.5rem; padding: .75rem 1rem; }
   #clientes .client-logos img { max-height: 2.1rem; }
 }
+
+/* Dos entradas: casa / empresa */
+.doors-sec { padding-block: 2.5rem 0; }
+.doors { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; }
+.door { display: grid; gap: .6rem; align-content: start; padding: 1.6rem 1.75rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--paper); color: var(--ink); text-decoration: none; transition: border-color .25s ease, box-shadow .25s ease, transform .25s cubic-bezier(.2,.8,.2,1); }
+.door:hover { color: var(--ink); border-color: var(--orange); box-shadow: var(--shadow); transform: translateY(-2px); }
+.door .ico { width: 3rem; height: 3rem; display: grid; place-items: center; border-radius: 12px; background: var(--navy); color: var(--orange); }
+.door .ico svg { width: 1.6rem; height: 1.6rem; }
+.door h3 { font-size: 1.35rem; }
+.door p { color: var(--muted); }
+.door .go { display: inline-flex; align-items: center; gap: .45rem; font-weight: 600; color: var(--link); }
+.door .go svg { width: 1.1rem; height: 1.1rem; transition: transform .25s cubic-bezier(.2,.8,.2,1); }
+.door:hover .go svg { transform: translateX(4px); }
+@media (max-width: 760px) { .doors { grid-template-columns: 1fr; } }
+
+/* Banda de mantenimiento integral en la home */
+.mi-band { background: var(--navy); color: var(--on-navy); }
+.mi-band h2 { color: var(--on-navy); }
+.mi-band .lead { color: var(--on-navy-soft); margin-top: 1rem; }
+.mi-in { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 2.5rem; align-items: center; }
+.mi-systems { list-style: none; padding: 0; margin: 1.25rem 0 1.5rem; display: flex; flex-wrap: wrap; gap: .5rem; }
+.mi-systems li { padding: .4rem .85rem; border-radius: var(--pill); border: 1px solid var(--navy-line); background: rgba(255,255,255,.06); font-size: .95rem; }
+.mi-band .btn-line { color: var(--on-navy); border-color: rgba(255,255,255,.4); }
+.mi-band .btn-line:hover { color: var(--on-navy); border-color: var(--on-navy); }
+.mi-case { margin: 0; padding: 1.6rem 1.75rem; border-left: 3px solid var(--orange); border-radius: var(--r-sm); background: rgba(255,255,255,.06); }
+.mi-case p { color: var(--on-navy); }
+.mi-case strong { color: var(--orange-strong); }
+.mi-case footer { margin-top: .9rem; font-size: .9rem; color: var(--on-navy-soft); }
+@media (max-width: 860px) { .mi-in { grid-template-columns: 1fr; } }
+
+/* Nota del hub de servicios */
+.mi-note { margin-top: 1.5rem; padding: 1.1rem 1.4rem; border-left: 3px solid var(--orange); border-radius: var(--r-sm); background: var(--sunk); }
