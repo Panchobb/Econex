@@ -1,6 +1,6 @@
 # Econex
 
-> Econex SRL es una empresa argentina de mantenimiento técnico para instituciones y empresas: climatización y aire acondicionado, refrigeración comercial, instalaciones eléctricas y tableros eléctricos. Trabaja en Ciudad de Buenos Aires y Gran Buenos Aires, con foco en sanatorios, clínicas y laboratorios. Forma parte de Grupo Nexo (junto a Nexolibre y MITLabs).
+> Econex SRL es una empresa argentina de mantenimiento técnico para instituciones y empresas: climatización y aire acondicionado, instalaciones eléctricas y tableros eléctricos. Trabaja en Ciudad de Buenos Aires y Gran Buenos Aires, con foco en sanatorios, clínicas y laboratorios. Forma parte de Grupo Nexo (junto a Nexolibre y MITLabs).
 
 Contacto: WhatsApp y teléfono +54 9 11 6741-0993, email contacto@econex.com.ar, formulario https://econex.com.ar/contacto.html
 Ubicación: Victoria, San Fernando, provincia de Buenos Aires (https://maps.app.goo.gl/mrSBR9cGimJLiuqK8)
@@ -78,7 +78,6 @@ Cuatro servicios que se complementan: menos proveedores, una sola persona respon
 
 - Splits, cassettes y equipos centrales
 - Recarga de gas refrigerante
-- Refrigeración comercial
 
 ### Mantenimiento e instalaciones eléctricas
 
@@ -109,7 +108,7 @@ Nacimos en el rubro eléctrico. Hoy hacemos mantenimiento integral en institucio
 
 ### Instituciones de salud
 
-- Sanatorios y clínicas: Climatización de quirófanos, salas y consultorios. Redes eléctricas para equipamiento médico.
+- Sanatorios y clínicas: Climatización de salas y consultorios. Redes eléctricas para equipamiento médico.
 
 - Laboratorios: Temperatura estable para equipos y reactivos, con tableros y circuitos dedicados.
 
@@ -121,7 +120,7 @@ Nacimos en el rubro eléctrico. Hoy hacemos mantenimiento integral en institucio
 
 - Plantas y depósitos: Tableros de potencia y comando, distribución de energía y salas técnicas.
 
-- Comercios y gastronomía: Refrigeración comercial, aire acondicionado y circuitos para locales.
+- Comercios y gastronomía: Aire acondicionado y circuitos eléctricos para locales.
 
 - Edificios e instituciones: Planes preventivos para escuelas, organismos y consorcios.
 
@@ -262,7 +261,6 @@ URL: https://econex.com.ar/servicios.html
 
 - Splits, cassettes y equipos centrales
 - Recarga de gas refrigerante
-- Refrigeración comercial
 
 ## Mantenimiento e instalaciones eléctricas
 
@@ -318,7 +316,7 @@ URL: https://econex.com.ar/servicios/climatizacion-y-refrigeracion.html
 
  Actualizado en octubre de 2026
 
- Econex instala, mantiene y repara equipos de aire acondicionado y de refrigeración para instituciones de salud, empresas, comercios e industrias en Ciudad de Buenos Aires y Gran Buenos Aires. Trabajamos con equipos split, cassette, piso-techo, sistemas centrales y equipos de frío comercial, con mantenimiento preventivo programado y atención de fallas. Somos service multimarca: trabajamos con equipos LG, Carrier, York, BGH, Surrey y otras marcas.
+ Econex instala, mantiene y repara equipos de aire acondicionado y de refrigeración para instituciones de salud, empresas, comercios e industrias en Ciudad de Buenos Aires y Gran Buenos Aires. Trabajamos con equipos split, cassette, piso-techo y sistemas centrales, con mantenimiento preventivo programado y atención de fallas. Somos service multimarca: trabajamos con equipos LG, Carrier, York, BGH, Surrey y otras marcas.
 
 ## Qué incluye
 
@@ -343,15 +341,11 @@ URL: https://econex.com.ar/servicios/climatizacion-y-refrigeracion.html
 - Búsqueda y reparación de pérdidas, y recarga de gas refrigerante.
 - Reemplazo de compresores, capacitores, plaquetas electrónicas y motores.
 
-### Refrigeración comercial
-
-Mantenimiento y reparación de cámaras frigoríficas, heladeras y exhibidoras para comercios, cocinas institucionales y gastronomía.
-
 ## Cada cuánto conviene hacer mantenimiento
 
  Tipo de uso Frecuencia orientativa
 
- Salas técnicas, quirófanos, laboratorios y uso continuo Mensual o bimestral
+ Salas técnicas, laboratorios y uso continuo Mensual o bimestral
 
  Oficinas y comercios con uso diario Trimestral
 
@@ -372,9 +366,6 @@ Sí. Antes de recargar buscamos y reparamos la pérdida, porque un equipo sano n
 
 ### ¿Trabajan con equipos centrales y de gran porte?
 Sí. Además de equipos split y cassette, hacemos mantenimiento de sistemas centrales de instituciones y empresas. Contanos marca, modelo y capacidad para preparar la visita.
-
-### ¿Atienden refrigeración comercial?
-Sí. Hacemos mantenimiento y reparación de cámaras frigoríficas, heladeras y exhibidoras de comercios y cocinas institucionales.
 
 ## Pedí tu presupuesto
 
@@ -620,7 +611,6 @@ Sí. El plan se arma a medida. Podés incluir una sola especialidad o combinarla
 
 - Splits, cassettes y equipos centrales
 - Recarga de gas refrigerante
-- Refrigeración comercial
 
 ### Mantenimiento e instalaciones eléctricas
 
@@ -648,9 +638,8 @@ URL: https://econex.com.ar/instituciones-de-salud.html
 
 ## Qué resolvemos
 
-- Climatización de quirófanos, terapias, salas de internación, consultorios y áreas de espera.
+- Climatización de consultorios y áreas de espera.
 - Temperatura estable en laboratorios, salas de equipos y depósitos de insumos.
-- Refrigeración de cámaras y heladeras de uso institucional.
 - Adecuación de redes eléctricas para equipamiento médico y de diagnóstico.
 - Tableros eléctricos, circuitos dedicados y mediciones de puesta a tierra.
 - Planes preventivos con informe técnico por visita, útiles para auditorías.

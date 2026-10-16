@@ -1,6 +1,6 @@
 # Econex
 
-> Econex SRL es una empresa argentina de mantenimiento técnico para instituciones y empresas: climatización y aire acondicionado, refrigeración comercial, instalaciones eléctricas y tableros eléctricos. Trabaja en Ciudad de Buenos Aires y Gran Buenos Aires, con foco en sanatorios, clínicas y laboratorios. Forma parte de Grupo Nexo (junto a Nexolibre y MITLabs).
+> Econex SRL es una empresa argentina de mantenimiento técnico para instituciones y empresas: climatización y aire acondicionado, instalaciones eléctricas y tableros eléctricos. Trabaja en Ciudad de Buenos Aires y Gran Buenos Aires, con foco en sanatorios, clínicas y laboratorios. Forma parte de Grupo Nexo (junto a Nexolibre y MITLabs).
 
 Contacto: WhatsApp y teléfono +54 9 11 6741-0993, email contacto@econex.com.ar, formulario https://econex.com.ar/contacto.html
 Ubicación: Victoria, San Fernando, provincia de Buenos Aires (https://maps.app.goo.gl/mrSBR9cGimJLiuqK8)
